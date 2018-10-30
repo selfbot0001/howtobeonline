@@ -7,4 +7,4 @@ self.on("ready", () => {
   
 });
 
-self.login(process.env.TOKEN)
+self.login(process.env.TOKEN);
